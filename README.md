@@ -1,6 +1,6 @@
 # Flipping-Card-htmlcssproj2
 
-2**) Flipping Card #50htmlcssprojects**
+2) Flipping Card #50htmlcssprojects
 
 Look out here: 
 
